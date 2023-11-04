@@ -1,2 +1,2 @@
 # CPP-Starter
-A starter C++ project with Google Test baked in.
+A CMake-based starter C++ project with Google Test baked in.
